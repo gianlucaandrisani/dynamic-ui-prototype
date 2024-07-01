@@ -66,6 +66,7 @@
     font-size: 16px;
     border-radius: none;
     color: black;
+    background-color: transparent;
 }
 
 .chat-input:focus {
