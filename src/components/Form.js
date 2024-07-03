@@ -46,7 +46,7 @@ const Form = ({onSubmit}) => {
       <input type="text" name="occupation" className="form-input" value={formData.occupation} onChange={handleChange} placeholder='Occupation'/>
     </div>
     <div className="form-group">
-      <input type="text" name="income" className="form-input" value={formData.income} onChange={handleChange} placeholder='Occupation' />
+      <input type="text" name="income" className="form-input" value={formData.income} onChange={handleChange} placeholder='Salary' />
     </div>
     <Button className='form' text="Continue" />
   </form>

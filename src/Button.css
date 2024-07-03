@@ -28,6 +28,7 @@ button.form {
     justify-content: center;
     text-align: center;
     align-items: center;
+    cursor: pointer;
 }
 
 button.form:hover {
