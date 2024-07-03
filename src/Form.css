@@ -35,24 +35,3 @@
     height: 34px;
     font-size: 16px;
 }
-
-.form-button {
-    padding: 16px 16px;
-    background-color: #2C64E3;
-    box-shadow: 0px 4px 12px #2c63e336;
-    color: white;
-    font-size: 16px;
-    font-weight: 500;
-    border: none;
-    border-radius: 12px;
-    transition: all 0.2s;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
-}
-
-.form-button:hover {
-    background-color: #2c67f2;
-}
