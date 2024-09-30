@@ -1,5 +1,6 @@
 import React from "react";
 import "../Investment.css";
+import Button from "./Button";
 
 const Investment = () => {
 
@@ -16,7 +17,7 @@ const Investment = () => {
                     $0 0.00%
                 </p>
             </div>
-            <button className='form-button'>Make your first investment</button>
+            <Button className='form' text="Make your first investment"/>
         </div>
     );
 

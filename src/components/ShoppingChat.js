@@ -8,7 +8,7 @@ import Button from './Button';
 const Chat = () => {
   // Initialize messages with the default bot message
   const [messages, setMessages] = useState([
-    { sender: 'bot', text: "Hello! I am your Bank Copilot, How can I assist you today?" }
+    { sender: 'bot', text: "Hello! I am your Shopping Copilot, How can I assist you today?" }
   ]);
   const [input, setInput] = useState('');
   
